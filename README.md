@@ -21,9 +21,7 @@ Because safety is a right, not a privilege. With SheSafe, you’re never alone�
 | **📚 Safety Tips & FAQs**| Access a curated hub of safety tips, legal info, and emergency contacts     |
 
 ## 🎉 See It in Action
-Quick Start:
-
-Coming Soon
+Quick Start: Coming Soon!
 
 # Clone the repository
 git clone https://github.com/Aneebon/shesafe.git
