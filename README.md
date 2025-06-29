@@ -23,11 +23,22 @@ Because safety is a right, not a privilege. With SheSafe, you’re never alone�
 ## 🎉 See It in Action
 Quick Start:
 
-```bash
+# Clone the repository
 git clone https://github.com/Aneebon/shesafe.git
+
+# Move into the project directory
 cd shesafe
-Open index.html in your browser.
-Use code with caution.
+
+# Open the index.html file in your default browser (platform-specific):
+# For Windows (Git Bash):
+start index.html
+
+# For macOS:
+open index.html
+
+# For Linux:
+xdg-open index.html
+
 
 It’s that easy!
 🛠️ Tech Stack
