@@ -54,8 +54,11 @@ You can hook the frontend with a FastAPI backend (JWT Auth, user data, incident 
 
 🤝 Team & Credits
 Made with ❤️ during LaunchHacks IV
+
 Developers: Anudip Saha , Saroj Sen
+
 Tech Used: HTML, CSS (Tailwind), JS, Leaflet.js
+
 Backend Ready: FastAPI, Mongo/PostgreSQL, JWT
 
 📄 License
