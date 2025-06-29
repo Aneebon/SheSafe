@@ -49,7 +49,7 @@ bash
 Copy
 Edit
 # Clone the repository
-git clone https://github.com/your-username/shesafe.git
+git clone https://github.com/Aneebon/shesafe.git
 cd shesafe
 
 # Open index.html in your browser (No build needed)
