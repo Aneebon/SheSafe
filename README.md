@@ -45,17 +45,24 @@ It’s that easy!
 🛠️ Tech Stack
 
 Frontend: HTML, Tailwind CSS, JavaScript, Leaflet.js 
+
 Backend Ready: FastAPI, MongoDB/PostgreSQL, JWT Auth
+
 🔥 What’s Next?
+
 🤖 AI-Powered Threat Detection: Smarter, faster responses
+
 📡 Twilio/Telegram Alerts: Automatic notifications to your emergency contacts
+
 🔒 Blockchain Logging: Tamper-proof, secure incident records
+
 📱 PWA Support: Use SheSafe offline, anywhere
-🌡️ Safety Heatmaps: Visualize city safety at a glance 
+
+🌡️ Safety Heatmaps: Visualize city safety at a glance
+
 🤝 Meet the Makers
 Built with ❤️ during LaunchHacks IV
+
 Developers: Anudip Saha, Saroj Sen
-📄 License
-MIT License.
-© 2025 SheSafe – All rights reserved. 
+
 SheSafe: Your safety, your city, your community.
